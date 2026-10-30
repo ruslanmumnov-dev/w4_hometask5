@@ -147,6 +147,33 @@
     gap: 10px;
     padding-left:10px ;
 }
+.box8{
+    padding-top: 80px;
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+.boxx1{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+}
+.boxx2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.qwe{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 
 
 
@@ -220,5 +247,17 @@ i{
     flex-direction: column-reverse;
     height: 500px;
 }
-
+.box8{
+    width: 400px;
+    margin: auto;
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 20px;
+}
+.boxx2{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    
+}
 }
