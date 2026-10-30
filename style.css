@@ -265,7 +265,7 @@
 .box2,.box1 button{
     display: none;
 }
-i{
+.box1 i{
     display: block;
 }
 .box1{
