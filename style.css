@@ -235,6 +235,20 @@
     margin-left: 10px;
      border-radius: 10px;
 }
+.foot{
+    padding-top: 70px;
+    width: 1200px;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.foot img{
+   width: 170px;
+   height: 50px;
+
+}
 
 
 
@@ -331,6 +345,7 @@ i{
     gap: 30px;
 }
 .ww{
+    width: 490px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -363,10 +378,24 @@ i{
     gap: 20px;
 }
 .in{
+    
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 10px;
+}
+.foot{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+  
+}
+.foot img{
+   width: 170px;
+   height: 80px;
+
 }
 
 }
