@@ -173,6 +173,34 @@
     flex-direction: column;
     align-items: center;
 }
+.box9{
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.ww{
+    width: 1160px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.dd1, .dd2, .dd3{
+    width: 380px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.asd button{
+    width: 180px;
+    height: 40px;
+    border-radius: 4px;
+    font-size: large;
+    
+}
 
 
 
@@ -258,6 +286,27 @@ i{
     display: flex;
     flex-direction: column;
     gap: 30px;
-    
+
+}
+.box9{
+    padding-top: 70px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+.ww{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+.asd{
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
 }
 }
